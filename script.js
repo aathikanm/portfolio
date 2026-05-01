@@ -1,4 +1,4 @@
-let text = "IT Student | Developer | AI Enthusiast";
+let text = "IT Student | AI Engineer | Full Stack Developer";
 let i = 0;
 
 function typing() {
@@ -15,5 +15,5 @@ function toggleDark() {
 }
 
 function msg() {
-    alert("Thanks for visiting my portfolio!");
+    alert("Thanks for visiting my portfolio 🚀");
 }
